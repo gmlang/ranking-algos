@@ -1,0 +1,1 @@
+* [reddit ranking algo](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9)
